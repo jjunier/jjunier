@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![Junsnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsnote&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Junsnote's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=junsnote&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Junsnote's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=junsnote&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 </div>
