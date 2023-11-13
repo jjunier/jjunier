@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  <a href="https://github.com/junsnote"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsnote&count_bg=%23A8E326&title_bg=%23FFAE00&icon=tensorflow.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
