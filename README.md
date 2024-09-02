@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 
 <div align="center">
 
@@ -26,3 +27,5 @@ Here are some ideas to get you started:
 </p>
 
 </div>
+
+-->
