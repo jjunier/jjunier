@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 </div>
 
 -->
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
+</a>
