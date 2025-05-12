@@ -37,9 +37,8 @@ Here are some ideas to get you started:
 -->
 
 
-
 <div align="center">
-  ### Hi there 👋
+  <h3>Hi there 👋</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=dark&hide_rank=true&hide=stars" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&layout=compact&theme=dark" />
 </div>
