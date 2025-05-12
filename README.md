@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&layout=compact&theme=github_dark_dimmed" />
+  <img src="https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=github_dark_dimmed&hide_rank=true&hide=stars" />
+</div>
+
+
 
 <div align="center">
 
