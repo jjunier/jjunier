@@ -49,10 +49,11 @@ Here are some ideas to get you started:
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&layout=compact&theme=dark#gh-dark-mode-only" />
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=dark&hide_rank=true&hide=stars" width="295"/>
   </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&layout=compact&theme=dark#gh-dark-mode-only" />
+  </a>
+
 </p>
