@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 --- IMG
 <div align="center">
   <h3>Hi there 👋</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=dark&hide_rank=true&hide=stars" />
+  <img src="https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=dark&hide_rank=true&hide=stars" />    width="355"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&layout=compact&theme=dark" />
 </div>
 
@@ -46,12 +46,13 @@ Here are some ideas to get you started:
 </a>
 -->
 
+<h3 align="center">Hi there 👋</h3>
 
-<div align="center">
-  <h3>Hi there 👋</h3>
-  [![givemechocopy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  [![givemechocopy's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-</div>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&layout=compact&theme=dark#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=dark&hide_rank=true&hide=stars" width="295"/>
+  </a>
+</p>
