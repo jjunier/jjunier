@@ -76,25 +76,6 @@ I love exploring new technologies, solving complex problems, and collaborating o
 </div>
 
 
-## 🔥 GitHub Streak
-
-> See how long I’ve been on a coding streak!
-> I strive for consistency in learning, building, and contributing every day.
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <picture>
-      <source 
-        srcset="https://streak-stats.demolab.com?user=givemechocopy&theme=codestackr&hide_border=true&card_width=700" 
-        media="(prefers-color-scheme: dark)">
-      <img 
-        src="https://streak-stats.demolab.com?user=givemechocopy&hide_border=true&card_width=800" 
-        alt="GitHub Streak">
-    </picture>
-  </a>
-</div>
-
-
 ## 🏆 GitHub Trophies
 
 > Achievements and recognitions earned on GitHub from contributions to popular repositories, it’s all part of the fun!
