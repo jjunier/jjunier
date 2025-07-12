@@ -13,47 +13,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<div align="center">
-
-[![givemechocopy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![givemechocopy's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
---- IMG
-<div align="center">
-  <h3>Hi there 👋</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=dark&hide_rank=true&hide=stars" />    width="355"
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&layout=compact&theme=dark" />
-</div>
-
-
-
-<p align="center">
-  <a href="https://github.com/givemechocopy"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgivemechocopy&count_bg=%23A8E326&title_bg=%23FFAE00&icon=tensorflow.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false"/></a>
-</p>
-
-</div>
--->
-
-
-<!--
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
-</a>
--->
 
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=dark&hide_rank=true&hide=stars" width="295"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars&hide_border=true"
+        media="(prefers-color-scheme: dark)">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&theme=default&hide_rank=true&hide=stars&hide_border=true"
+        height="200">
+    </picture>
   </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&layout=compact&theme=dark#gh-dark-mode-only" />
+  
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <picture>
+      <source 
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=givemechocopy&theme=tokyonight"
+        media="(prefers-color-scheme: dark)">
+      <img 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=givemechocopy&theme=default"
+        height="200">
+    </picture>
+  </a>
+</p>
+
+
+
+<div align="center">
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=givemechocopy&theme=tokyonight&hide_border=true&card_width=700"" alt="GitHub Streak" />  
   </a>
 
-</p>
+</div>
+
+
+
