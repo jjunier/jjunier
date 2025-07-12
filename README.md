@@ -21,8 +21,6 @@ I love exploring new technologies, solving complex problems, and collaborating o
 
 ## 🚀 Featured Projects
 
-> Here are some of the projects I'm most proud of feel free to check them out!
-
 [![Project One](https://img.shields.io/badge/Repo-Project%20One-EB5454?style=for-the-badge&logo=github)](https://github.com/givemechocopy/project-one)
 [![Project Two](https://img.shields.io/badge/Repo-Project%20Two-EB5454?style=for-the-badge&logo=github)](https://github.com/givemechocopy/project-two)
 [![Project Three](https://img.shields.io/badge/Repo-Project%20Three-EB5454?style=for-the-badge&logo=github)](https://github.com/givemechocopy/project-three)
