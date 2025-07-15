@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm givemechocopy!
 
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://dysad.tistory.com/) [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@lv1231/posts) 
+
 ✨ I’m passionate about turning data into insights, automating workflows, and building robust backend systems.  
 I love exploring new technologies, solving complex problems, and collaborating on exciting projects.
+
 
 
 ## 🚀 Featured Projects
