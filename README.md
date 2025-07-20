@@ -38,7 +38,7 @@ I love exploring new technologies, solving complex problems, and collaborating o
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,airflow,dbtlabs,spark,kafka,pandas,numpy,matplotlib,seaborn,scikitlearn,pytorch,tensorflow" alt="backend-data">
   
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,postgresql,redshift,snowflake,bigquery,prometheus,grafana,hadoop,cassandra,presto,neo4j,metabase" alt="database-dw-monitoring">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,redshift,snowflake,bigquery,prometheus,grafana,hadoop,cassandra,presto,neo4j,metabase" alt="database-dw-monitoring">
   
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,aws,gcp,linux,bash,github,gitlab,githubactions,vscode,pycharm,jupyter,postman" alt="infra-tools">
 </div>
