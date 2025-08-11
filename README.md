@@ -44,9 +44,8 @@ I love exploring new technologies, solving complex problems, and collaborating o
 
 ## 📊 GitHub Stats
 
-> Here’s an overview of my GitHub activity including commits, pull requests, and contributions.
->
-> I believe in consistency and continuous improvement, and these stats reflect my journey.
+> Here’s an overview of my GitHub activity including commits, pull requests, contributions, and my most-used language.  
+I believe in consistency and continuous improvement, and these stats reflect my journey.
 
 <div align="center">
   <!-- Github Stats -->
