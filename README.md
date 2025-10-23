@@ -1,5 +1,5 @@
 <!--
-**givemechocopy/givemechocopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jjunier/jjunier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
 
@@ -22,9 +22,9 @@ I love exploring new technologies, solving complex problems, and collaborating o
 
 ## 🚀 Featured Projects
 
-[![Project One](https://img.shields.io/badge/Repo-Project%20One-EB5454?style=for-the-badge&logo=github)](https://github.com/givemechocopy/project-one)
-[![Project Two](https://img.shields.io/badge/Repo-Project%20Two-EB5454?style=for-the-badge&logo=github)](https://github.com/givemechocopy/project-two)
-[![Project Three](https://img.shields.io/badge/Repo-Project%20Three-EB5454?style=for-the-badge&logo=github)](https://github.com/givemechocopy/project-three)
+[![Project One](https://img.shields.io/badge/Repo-Project%20One-EB5454?style=for-the-badge&logo=github)](https://github.com/jjunier/project-one)
+[![Project Two](https://img.shields.io/badge/Repo-Project%20Two-EB5454?style=for-the-badge&logo=github)](https://github.com/jjunier/project-two)
+[![Project Three](https://img.shields.io/badge/Repo-Project%20Three-EB5454?style=for-the-badge&logo=github)](https://github.com/jjunier/project-three)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
@@ -51,24 +51,24 @@ I believe in consistency and continuous improvement, and these stats reflect my 
   <!-- Github Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height="160" 
-      src="https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&border_radius=10&bg_color=45,21121b,101224&border_color=EB545400&icon_color=EB5454&title_color=EB5454&text_color=FFFFFF&rank_icon=github&count_private=true&hide_rank=false&hide=stars&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api?username=jjunier&show_icons=true&border_radius=10&bg_color=45,21121b,101224&border_color=EB545400&icon_color=EB5454&title_color=EB5454&text_color=FFFFFF&rank_icon=github&count_private=true&hide_rank=false&hide=stars&hide_border=true" 
       alt="GitHub stats dark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=givemechocopy&show_icons=true&border_radius=10&bg_color=FFFFFF,FFFFFF,FFFFFF&border_color=EB545400&icon_color=EB5454&title_color=EB5454&text_color=000000&rank_icon=github&count_private=true&hide_rank=false&hide=stars&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api?username=jjunier&show_icons=true&border_radius=10&bg_color=FFFFFF,FFFFFF,FFFFFF&border_color=EB545400&icon_color=EB5454&title_color=EB5454&text_color=000000&rank_icon=github&count_private=true&hide_rank=false&hide=stars&hide_border=true" 
       alt="GitHub stats light" />
   </a>
 
   <!-- Most Used Languages-->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&size_weight=0.5&count_weight=0.5&layout=compact&border_radius=10&bg_color=45,21121b,101224&border_color=EB545400&title_color=EB5454&text_color=FFFFFF&count_private=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjunier&size_weight=0.5&count_weight=0.5&layout=compact&border_radius=10&bg_color=45,21121b,101224&border_color=EB545400&title_color=EB5454&text_color=FFFFFF&count_private=true" 
       alt="Top languages dark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=givemechocopy&size_weight=0.5&count_weight=0.5&layout=compact&border_radius=10&bg_color=FFFFFF,FFFFFF,FFFFFF&border_color=EB545400&title_color=EB5454&text_color=000000&count_private=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjunier&size_weight=0.5&count_weight=0.5&layout=compact&border_radius=10&bg_color=FFFFFF,FFFFFF,FFFFFF&border_color=EB545400&title_color=EB5454&text_color=000000&count_private=true" 
       alt="Top languages light" />
   </a>
 </div>
@@ -82,10 +82,10 @@ I believe in consistency and continuous improvement, and these stats reflect my 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
       <source 
-        srcset="https://github-profile-trophy.vercel.app/?username=givemechocopy&no-frame=true&column=5&margin-w=15&margin-h=15&theme=dark_lover"
+        srcset="https://github-profile-trophy.vercel.app/?username=jjunier&no-frame=true&column=5&margin-w=15&margin-h=15&theme=dark_lover"
         media="(prefers-color-scheme: dark)">
       <img 
-        src="https://github-profile-trophy.vercel.app/?username=givemechocopy&no-frame=true&column=5&margin-w=15&margin-h=15&theme=flat" 
+        src="https://github-profile-trophy.vercel.app/?username=jjunier&no-frame=true&column=5&margin-w=15&margin-h=15&theme=flat" 
         alt="GitHub Trophy">
     </picture>
   </a>
