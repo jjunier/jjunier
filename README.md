@@ -18,16 +18,19 @@ Here are some ideas to get you started:
 > ✨ I’m passionate about turning data into insights, automating workflows, and building robust backend systems.  
 I love exploring new technologies, solving complex problems, and collaborating on exciting projects.
 
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://dysad.tistory.com/) [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@lv1231/posts) 
+[![Tistory](https://img.shields.io/badge/Tistory-ff5a4a?style=for-the-badge&logo=Tistory&logoColor=white)](https://dysad.tistory.com/) 
+[![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)](https://jjunier.github.io/)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@lv1231/posts)
 
-## 🚀 Featured Projects
+
+## 🚀 Key Projects
+
+> Data engineering projects focused on building scalable pipelines, managing data workflows, and implementing reliable data infrastructure.
 
 [![Project One](https://img.shields.io/badge/Repo-Project%20One-EB5454?style=for-the-badge&logo=github)](https://github.com/jjunier/project-one)
 [![Project Two](https://img.shields.io/badge/Repo-Project%20Two-EB5454?style=for-the-badge&logo=github)](https://github.com/jjunier/project-two)
 [![Project Three](https://img.shields.io/badge/Repo-Project%20Three-EB5454?style=for-the-badge&logo=github)](https://github.com/jjunier/project-three)
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ## 🛠️ Skills & Tools
 
@@ -73,42 +76,3 @@ I believe in consistency and continuous improvement, and these stats reflect my 
   </a>
 </div>
 
-
-## 🏆 GitHub Trophies
-
-> Achievements and recognitions earned on GitHub from contributions to popular repositories, it’s all part of the fun!
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <picture>
-      <source 
-        srcset="https://github-profile-trophy.vercel.app/?username=jjunier&no-frame=true&column=5&margin-w=15&margin-h=15&theme=dark_lover"
-        media="(prefers-color-scheme: dark)">
-      <img 
-        src="https://github-profile-trophy.vercel.app/?username=jjunier&no-frame=true&column=5&margin-w=15&margin-h=15&theme=flat" 
-        alt="GitHub Trophy">
-    </picture>
-  </a>
-</div>
-
-
-## 💬 Inspirational Quote
-
-> A random motivational quote to keep the spirits high!
-> I believe great ideas often start with a spark of inspiration.
-
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <picture>
-      <source 
-        srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" 
-        media="(prefers-color-scheme: dark)">
-      <img 
-        src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" 
-        alt="Readme Quotes">
-    </picture>
-  </a>
-</div>
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
