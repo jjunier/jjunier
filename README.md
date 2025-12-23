@@ -28,9 +28,9 @@ I love exploring new technologies, solving complex problems, and collaborating o
 > Data engineering projects focused on building scalable pipelines, managing data workflows, and implementing reliable data infrastructure.
 
 [![Project One](https://img.shields.io/badge/Repo-Project%20One-EB5454?style=for-the-badge&logo=github)](https://github.com/jjunier/project-one)
-[![Project Two](https://img.shields.io/badge/Repo-Project%20Two-EB5454?style=for-the-badge&logo=github)](https://github.com/jjunier/project-two)
-[![Project Three](https://img.shields.io/badge/Repo-Project%20Three-EB5454?style=for-the-badge&logo=github)](https://github.com/de6-pipeguys)
-[![Project Four](https://img.shields.io/badge/Repo-Project%20Four-EB5454?style=for-the-badge&logo=github)](https://github.com/jjunier/prj--de6-seoul-transportation-bicycle-usage)
+[![Project Two](https://img.shields.io/badge/Repo-Project%20Two-1F8383?style=for-the-badge&logo=github)](https://github.com/jjunier/project-two)
+[![Project Three](https://img.shields.io/badge/Repo-Project%20Three-2E79C5?style=for-the-badge&logo=github)](https://github.com/de6-pipeguys)
+[![Project Four](https://img.shields.io/badge/Repo-Project%20Four-A76727?style=for-the-badge&logo=github)](https://github.com/jjunier/prj--de6-seoul-transportation-bicycle-usage)
 
 ## 🛠️ Skills & Tools
 
