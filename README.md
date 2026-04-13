@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 > ✨ I’m passionate about turning data into insights, automating workflows, and building robust backend systems.  
 I love exploring new technologies, solving complex problems, and collaborating on exciting projects.
 
-[![Tistory](https://img.shields.io/badge/Tistory-ff5a4a?style=for-the-badge&logo=Tistory&logoColor=white)](https://dysad.tistory.com/) 
-[![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)](https://jjunier.github.io/)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@lv1231/posts)
+[![Jekyll](https://img.shields.io/badge/Jekyll-000000?style=for-the-badge&logo=Jekyll&logoColor=white)](https://jjunier.github.io/)
+[![Tistory](https://img.shields.io/badge/Tistory-ff5a4a?style=for-the-badge&logo=Tistory&logoColor=white)](https://junior.tistory.com/) 
+<!-- [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@lv1231/posts) -->
 
 
 ## 🚀 Key Projects
